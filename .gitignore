@@ -1,0 +1,13 @@
+# Vim swap files
+*.swp
+*.swo
+*~
+
+# Build outputs
+*.out
+a.out
+*.o
+*.exe
+
+# Local Claude Code settings
+.claude/settings.local.json
